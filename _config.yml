@@ -1,9 +1,9 @@
-title: Mi Wiki
-description: Laboratorio, Wiki y Jardín Digital
+title: Kurt Shuler Homelab Documentation
+description: How to documents so that I can recreate my homelab networks and servers when I break them.
 theme: just-the-docs
 
-url: https://wiki.bolli.ar
-repository: diegobollini/miwiki
+url: https://kurtshuler.github.io/documentation/
+repository: kurtshuler/documentation
 
 permalink: pretty
 
@@ -26,7 +26,7 @@ exclude: ["LICENSE", "README.md"]
 
 callouts:
   highlight:
-    title: Relevante
+    title: Relevant
     color: yellow
     opacity: 0.9
   important:
@@ -53,9 +53,9 @@ aux_links_new_tab: true
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Para arriba ↑"
+back_to_top_text: "Back to top ↑"
 
-footer_content: 'Sin copyright ~ 2024-(...) <a href="https://bolli.ar" target=_blank>Diego Bollini.</a>'
+footer_content: 'Without copyright ~ 2024-♾️ <a href="https://bolli.ar" target=_blank>Kurt Shuler.</a>'
 
 compress_html:
   clippings: all
