@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Discos
-permalink: /discos_trascendentales/
-parent: Artes
+# permalink: /discos_trascendentales/
+parent: Art
 ---
 
 La colección de los discos trascendentales de mi vida. Por orden aleatorio (y de memoria) y no cronológico.
