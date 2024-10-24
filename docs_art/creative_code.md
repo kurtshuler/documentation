@@ -2,7 +2,7 @@
 layout: page
 title: Creative Code
 permalink: /creative_code/
-parent: Artes
+parent: Art
 ---
 
 # Proyecto Creative Code
