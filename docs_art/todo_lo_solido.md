@@ -2,7 +2,7 @@
 layout: page
 title: Todo lo sólido...
 permalink: /todo_lo_solido/
-parent: Artes
+parent: Art
 ---
 
 "A mediados del siglo XIX Marx y Engels advierten los efectos demoledores que las leyes del mercado moderno y la producción capitalista ejercen sobre la cultura, asemejándolos a un fluído que intoxica todo lo que alguna vez resultó firme. Esto sólido tiene espacio y tiempo, tiene historia. Lo líquido es inestable, no se compromete al espacio ni al tiempo.
