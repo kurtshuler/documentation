@@ -2,7 +2,7 @@
 layout: page
 title: Falopitas con IA
 # permalink: /discos_trascendentales/
-parent: Artes
+parent: Art
 ---
 
 # FALOPITAS CON IA
